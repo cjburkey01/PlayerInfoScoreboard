@@ -1,0 +1,14 @@
+# Created by CJ Burkey
+# Version 1.0.0
+
+UpdateDelayInSeconds: 5
+DebugSpam: false
+
+ServerName: '&2MiggyCraft'
+LineBreak: '+----------+'
+
+HealthText: 'Health: '
+FoodText: 'Food: '
+MoneyText: 'Balance: '
+FactionText: 'Faction: '
+SiteText: 'miggycraft.net'

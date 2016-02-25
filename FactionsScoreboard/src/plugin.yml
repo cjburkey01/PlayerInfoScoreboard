@@ -1,0 +1,10 @@
+name: FactionsScoreboard
+version: 1.0.0
+main: com.cjburkey.factions.scoreboard.FS
+depends: [Factions, Vault]
+database: false
+description: A scoreboard that gives basic user information including, but not limited to, their faction and monetary balance.
+
+permissions:
+  fs.disable:
+    description: Disable scoreboard
